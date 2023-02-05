@@ -1,6 +1,6 @@
 import React, { useCallback, useRef } from 'react'
 import ReactDOM from 'react-dom'
-import objectTracker from '@cloud-annotations/object-tracking'
+import objectTracker from '@front-lines-org/object-tracking'
 
 const VIDEO = process.env.PUBLIC_URL + '/video/test.mp4'
 

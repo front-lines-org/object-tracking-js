@@ -886,9 +886,9 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@cloud-annotations/object-tracking@^0.0.4":
+"@front-lines-org/object-tracking@^0.0.4":
   version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@cloud-annotations/object-tracking/-/object-tracking-0.0.4.tgz#6c4a76c530de0bdfcbe03c465bce4e0f2829b5be"
+  resolved "https://registry.yarnpkg.com/@front-lines-org/object-tracking/-/object-tracking-0.0.4.tgz#6c4a76c530de0bdfcbe03c465bce4e0f2829b5be"
   integrity sha512-ZFFfLTB5VitN56tsQVJbYl82EYEcJ11TIEHaPX1n16VccfYi9Lf9aK4IrchIIjB+Gn2ODUnNaUlHFRuK1olsbw==
   dependencies:
     "@babel/runtime" "^7.6.0"
