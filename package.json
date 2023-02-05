@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-annotations/object-tracking",
+  "name": "@front-lines-org/object-tracking",
   "version": "0.1.0",
   "description": "Simple object tracking in js",
   "jsdelivr": "dist/object-tracking.min.js",
@@ -11,13 +11,12 @@
   "main": "dist/object-tracking.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-annotations/object-tracking-js.git"
+    "url": "https://github.com/front-lines-org/object-tracking-js.git"
   },
   "bugs": {
-    "url": "https://github.com/cloud-annotations/object-tracking-js/issues"
+    "url": "https://github.com/front-lines-org/object-tracking-js/issues"
   },
-  "homepage": "https://github.com/cloud-annotations/object-tracking-js",
-  "author": "Nick Bourdakos",
+  "homepage": "https://github.com/front-lines-org/object-tracking-js",
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.20.3",
